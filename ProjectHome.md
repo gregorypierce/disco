@@ -1,0 +1,1 @@
+Disco is a load testing framework written in the Groovy programming language which can interact with JMS destinations and HTTP dynamic pages to apply load to them. The disco framework is designed to allow multiple agents on different machines to receive a load testing script from the central server so that multiple machines can participate in the load testing process.
